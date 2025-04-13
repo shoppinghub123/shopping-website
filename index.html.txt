@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopping Hub</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <h1>Shopping Hub</h1>
+        </div>
+    </header>
+
+    <!-- Background image and login buttons -->
+    <div class="background-image">
+        <img src="https://yourusername.github.io/yourrepositoryname/Shopping%20Hub.jpeg" alt="Shopping Hub">
+    </div>
+
+    <div class="login-buttons">
+        <button onclick="window.location.href='seller_login.html'">Seller Login</button>
+        <button onclick="window.location.href='customer_login.html'">Customer Login</button>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 Shopping Hub</p>
+    </footer>
+</body>
+</html>
